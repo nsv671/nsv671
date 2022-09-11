@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nsv671
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Nitesh sah
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on project on java Script
+- 💞️ I’m looking to collaborate on project on web development
 - 📫 you can reach me on niteshsah671@gmail.com
 
 <!---
