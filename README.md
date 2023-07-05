@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitesh sah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on project on web development
 - 📫 you can reach me on niteshsah671@gmail.com
 
